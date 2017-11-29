@@ -1,0 +1,24 @@
+/*
+Theme Name: twentyfifteen-child
+Theme URI:
+Description: A child theme of twentyfifteen
+Author: Dharini Parmar
+Author URI:
+Template: twentyfifteen
+Version: 0.1.0
+*/
+
+h1
+{
+  color: #DD522C;
+}
+
+h1.entry-title
+{
+  display: none;
+}
+
+header.entry-header
+{
+  color: orange;
+}
