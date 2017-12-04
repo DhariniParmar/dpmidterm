@@ -7,7 +7,7 @@ Author URI:
 Template: twentyfifteen
 Version: 0.1.0
 */
-
+// heading color change
 h1
 {
   color: #DD522C;
@@ -21,4 +21,18 @@ h1.entry-title
 header.entry-header
 {
   color: orange;
+}
+// changing font size of site title
+p.site-title
+{
+  font-size: 22px;
+}
+a
+{
+  font-size: 24px;
+}
+pre {
+  white-space: pre;
+  word-break: normal;
+  word-wrap: normal;
 }
